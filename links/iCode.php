@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en","kn">
+    <head>
+	<meta charset="UTF-8" />        
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <title>&nbsp;Arise</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+        <meta name="description" content="E-magazine of the ISE department of DSI" />
+        <meta name="keywords" content="E-magazine,Dayananda Sagar,ISE,Mahiti" />
+        <meta name="author" content="Jeevan" />
+		<link rel="stylesheet" type="text/css" href="css/font.css" />	
+		      </head>
+	  
+	  
+	  
+	  <style type="text/css">
+	     body{
+		 
+		 }
+		 heading{
+		color: rgb(57, 158, 48);
+		font-family: Comfortaa;
+		font-size: 48px;
+		border: 2px solid red;
+		margin: 100px 10px;
+		width: 500px;
+		height: 20px;
+		padding: 10px 516px;
+		background: rgb(70, 69, 69);
+	
+		
+		 }
+		 
+		 heading a{
+		 text-decoration: none;
+		 color:yellow;
+		 float: right;
+		 background: rgb(70, 69, 69);
+		 border: 8px solid rgb(17, 139, 105);
+		 position: absolute;
+		 top: 0px;
+		 left: 1210px;
+		 }
+		 
+		 p{
+	
+		 color: rgb(121, 57, 121);
+		 background: white;
+		 font-size: 25px;
+		 padding: 20px 7px 10px 1px;
+		 margin: 20px 18px;
+		 }
+	  
+	  </style>
+	
+	  <heading>&nbsp;iCode<a href="../default.php?page=2">&lt;Back</a></span></heading> 
+	  <p>&nbsp;&nbsp;Computer. Code. Program. Output.<br>Any person strolling along the corridors of the Department of ISE is sure to catch these phrases all around.
+A new find, the coding team, Icode , has one bounden duty- to code. 
+An initiative by the Head of the Department, Icode is an effort to help students gain practical knowledge in this ever growing world of computers. A team of 6 computer geniuses, Icode is on the look out for more geniuses. Starting this semester, Icode  is going to strive to improve the technical skills of upcoming engineers.
+A tech hunt for the Departments of ISE and CSE called INSANE is already one feather in  icode's  cap.
+Here's wishing them all the very best in their future endeavours 
+</p>
+	  
+	  
+	  </html>
+		  
+		  
+		  
+		  
+		  <p><br>
+
+</p>
+	  
+	  
+	  </html>
+	
